@@ -1,0 +1,122 @@
+{
+  "challenges": [
+    {
+      "author": "Rohit Jha",
+      "title": "Social Media and Planning",
+      "body": "This is a research challenge. To what extend can we use social media or other social or public data to improve planning of consumer deliveries (as a result of exponential growth of online orders and deliveries) ? Which data sources seems the most suitable for this?",
+      "likes": 4,
+      "dislikes": 2,
+      "dislikesId": [
+        1
+      ],
+      "likesId": [
+        1
+      ],
+      "createdOn": 1629346530775,
+      "tags": [
+        "R&D",
+        "social"
+      ],
+      "empId": "E2018121",
+      "id": 1
+    },
+    {
+      "author": "Adarsh Pratap Singh",
+      "title": "Virtual health assistant",
+      "body": "Develop a device that can help people living with chronic medical conditions to regularly monitor their health parameters and vitals in order to live a healthy life. The device should monitor health conditions like diabetes and should alert family members and relatives if the patient’s health deteriorates. The device should also send timely reminders to the patient to take medication.",
+      "likes": 14,
+      "dislikes": 3,
+      "dislikesId": [
+        2
+      ],
+      "likesId": [
+        2
+      ],
+      "createdOn": 1629717745425,
+      "tags": [
+        "health",
+        "tech"
+      ],
+      "empId": "E2018101",
+      "id": 2
+    },
+    {
+      "author": "Utkarsh Shukla",
+      "title": "Epidemic Monitor",
+      "body": "Epidemic Monitor is an application for crowdsourcing epidemic data and using prior trends to predict the spread of the disease in current time and in future cases using historical data trained using state of the art Neural Network.",
+      "likes": 5,
+      "dislikes": 0,
+      "dislikesId": [],
+      "likesId": [],
+      "createdOn": 1613028037804,
+      "tags": [
+        "health",
+        "tech"
+      ],
+      "empId": "E2019212",
+      "id": 3
+    },
+    {
+      "author": "Sachin Bharti",
+      "title": "Remote patient examination",
+      "body": "Build a mobile app that enables doctors to gain real-time access to a patient’s vital signs from anywhere in the world. The mobile solution should allow doctors to gauge a patient’s condition to determine whether hospitalization is necessary. The solution can also provide general medical assistance and will be especially useful in cases of emergencies.",
+      "likes": 2,
+      "dislikes": 0,
+      "dislikesId": [],
+      "likesId": [],
+      "createdOn": 1626244267838,
+      "tags": [
+        "mobile",
+        "tech",
+        "health"
+      ],
+      "empId": "E202025",
+      "id": 4
+    },
+    {
+      "author": "Hanzala Ahmad",
+      "title": "Autonomous Drones",
+      "body": "Build an AI-powered drone camera, program it with object tracking data from proximity sensors, GPS sensors, and motion sensors. With the autonomous drone, people won’t need to pilot the drone camera. This will help people to take professional vacation photos and videos, this will especially be helpful for solo travelers.",
+      "likes": 4,
+      "dislikes": 0,
+      "dislikesId": [],
+      "likesId": [],
+      "createdOn": 1628585773169,
+      "tags": [
+        "feature",
+        "AI/ML",
+        "travellers"
+      ],
+      "empId": "E2020250",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": "E2018101",
+      "name": "Adarsh Pratap Singh"
+    },
+    {
+      "id": "E2018121",
+      "name": "Rohit Jha"
+    },
+    {
+      "id": "E2019212",
+      "name": "Utkarsh Shukla"
+    },
+    {
+      "id": "E2020250",
+      "name": "Hanzala Ahmad"
+    },
+    {
+      "id": "E202025",
+      "name": "Sachin Bharti"
+    }
+  ],
+  "likes": [
+    {
+      "id": 5,
+      "count": 4
+    }
+  ]
+}
