@@ -38,7 +38,7 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
-          <NoAuthRoute exact path="/" component={Home} />
+          <NoAuthRoute exact path="hack-ideas/" component={Home} />
           <AuthRoute exact path="/login" component={Login} />
         </Switch>
       </div>
