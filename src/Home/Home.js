@@ -11,7 +11,7 @@ const HomePage = () => {
   const sortRef = useRef();
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(false);
-  const [challenges, setChallenges] = useState(null);
+  const [challenges, setChallenges] = useState([]);
   const [disableSort, setDisableSort] = useState(true);
   const errorMsg = "Something wrong, please come back later...";
 
@@ -132,7 +132,7 @@ const HomePage = () => {
           disable={disableSort}
           handleChange={handleSorting}
         ></Sorting>
-        {challenges && (
+        {challenges.length && (
           <div className="challenges-container">
             {challenges.map((challenge, index) => (
               <Tile
