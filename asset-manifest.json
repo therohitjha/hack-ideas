@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hack-ideas/static/css/main.22465550.chunk.css",
+    "main.js": "/hack-ideas/static/js/main.199e4a7e.chunk.js",
+    "main.js.map": "/hack-ideas/static/js/main.199e4a7e.chunk.js.map",
+    "runtime-main.js": "/hack-ideas/static/js/runtime-main.cbccda6f.js",
+    "runtime-main.js.map": "/hack-ideas/static/js/runtime-main.cbccda6f.js.map",
+    "static/js/2.f6c1da54.chunk.js": "/hack-ideas/static/js/2.f6c1da54.chunk.js",
+    "static/js/2.f6c1da54.chunk.js.map": "/hack-ideas/static/js/2.f6c1da54.chunk.js.map",
+    "index.html": "/hack-ideas/index.html",
+    "static/css/main.22465550.chunk.css.map": "/hack-ideas/static/css/main.22465550.chunk.css.map",
+    "static/js/2.f6c1da54.chunk.js.LICENSE.txt": "/hack-ideas/static/js/2.f6c1da54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbccda6f.js",
+    "static/js/2.f6c1da54.chunk.js",
+    "static/css/main.22465550.chunk.css",
+    "static/js/main.199e4a7e.chunk.js"
+  ]
+}
